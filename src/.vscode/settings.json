@@ -1,0 +1,3 @@
+{
+    "files.associations": {"*h*h*hpp*hpp*hpp*hpp*h*h*h*h*h*hios":"cpp","ios":"cpp","iterator":"cpp","array":"cpp","*hpp*hpp*hpp*hpp*hpp*h*h*h*h*h*hstack":"cpp","__split_buffer":"cpp","*hpp*hpp*hpp*h*h*h*h*hpp*h*h*h*h*h*h*h*h*h*hpp*hqueue":"cpp","queue":"cpp","fstream":"cpp","*h__config":"cpp","__config":"cpp","stdexcept":"cpp","initializer_list":"cpp","typeinfo":"cpp","exception":"cpp","new":"cpp","cstdio":"cpp","cstdint":"cpp","cstdlib":"cpp","cwchar":"cpp","cctype":"cpp","cstdarg":"cpp","ctime":"cpp","*h*h*h*h*h*h*h*h*h*hcstdio":"cpp","cstring":"cpp","cmath":"cpp","cstddef":"cpp","*hpp*hpp*hpp*hpp*h*h*h*h*h__nullptr":"cpp","cwctype":"cpp","*hclocale":"cpp","*h*h*hcwctype":"cpp","*h*h*h*h*hpp*hpp*hpp*hppcwctype":"cpp","clocale":"cpp","ostream":"cpp"}
+}
